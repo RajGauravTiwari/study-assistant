@@ -2,6 +2,7 @@
 
 An AI-powered study assistant that helps students interact with study material, answer questions, and manage learning tasks efficiently using Google Gemini API.
 Demo Video Link : 
+(https://drive.google.com/drive/folders/1yIl2nzZjOyX5EPD3LbCaiZ9rw_cX8eSG?usp=sharing)
 
 ---
 
