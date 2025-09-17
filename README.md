@@ -82,7 +82,7 @@ GEMINI_API_KEY=your-gemini-key-here
 
 ### 6. 🎯 Run the Streamlit App
 ```bash
-streamlit run app/main.py
+streamlit run main.py
 ```
 
 Open your browser at `http://localhost:8501` to use the app! 🌐
